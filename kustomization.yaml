@@ -6,3 +6,4 @@ resources:
 images:
 - name: PROJECT/IMAGE
   newName: levonml/argo-cd-practice
+  newTag: a6710dceae6b75e70e734ef20d81586e1b095e99
